@@ -1,4 +1,6 @@
 def main():
-    return "ygaanya"
+    yahaya = "even conditions"
+    return yahaya
+
 
 main()
